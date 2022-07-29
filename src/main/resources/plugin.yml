@@ -1,0 +1,6 @@
+name: DisablePoppyDrops
+version: '${project.version}'
+main: nl.mrjoachim.disablepoppydrops.DisablePoppyDrops
+api-version: 1.18
+authors: [ MrJoachim ]
+description: Disable Iron Golem Drops
